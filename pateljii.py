@@ -1,6 +1,6 @@
 # Bot token and admin ID
-TOKEN = "7915229015:AAFPv6esbnwmxhyLFDf0-2oaeDCrTm3gnXw"  # Bot Token
-ADMIN_ID = 7431484129  # Admin ID
+TOKEN = "7086387816:AAGKZZqWKNUpeR3iu4BFidbW4CZphd4JPkc"  # Bot Token
+ADMIN_ID = 6247907606  # Admin ID
 
 # Messages
 APPROVED_MESSAGE = "❤️Aap approved hain. Swagat hai 😊 DM--> @patelji_47 !"
